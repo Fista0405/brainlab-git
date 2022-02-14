@@ -1,3 +1,3 @@
 # brainlab-git
 
-Git $ GitHub practice.
+Git & GitHub practice.
